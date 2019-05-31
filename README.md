@@ -39,6 +39,7 @@ For a summary of the licence go to https://tldrlegal.com/license/gnu-general-pub
 * TensorFlow `pip install tensorflow`
 * Scikit-Learn `pip install sklearn`
 * h5py `pip install h5py`
+* [keras_lr_finder](https://github.com/qwertpi/keras_lr_finder)
 * libhdf5 (needed on Linux only) `sudo apt-get install libhdf5-serial-dev`
 ## One Liner Install (Linux Only)
 ` curl https://raw.githubusercontent.com/qwertpi/iris-ai/master/install.bash | sudo bash `
