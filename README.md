@@ -2,7 +2,6 @@
 This is my first use of Keras for regression instead of classification and now features semi-automated learning rate search. All you have to do is aim for a learning rate that is a little bit before a sharp decrease in the graph.  
 This a pipeline from data visualisation to data balancing to model training to prediction on the [UCL Abalone dataset](https://archive.ics.uci.edu/ml/datasets/abalone)  
 I have achived a mean error of ±1.473 years train and ±1.462 years test  
-Feedback and pull requests are very welcome
 
 ## Copyright
 Copyright © 2019  Rory Sharp All rights reserved.
